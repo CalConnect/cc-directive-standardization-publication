@@ -1,0 +1,576 @@
+= CalConnect Publication Processes And Requirements
+:title: CalConnect Publication Processes And Requirements
+:docnumber: CD 18XX
+:copyright-year: 2018
+:language: en
+:doctype: standard
+:edition: 1
+:status: draft
+:revdate: 2018-04-22T00:00:00Z
+:language: en
+:technical-committee: PUBLISH
+:toc:
+:stem:
+
+.Foreword
+The Calendaring and Scheduling Consortium ("`CalConnect`") is global
+non-profit organization with the aim to facilitate interoperability of
+technologies across user-centric systems and applications.
+
+CalConnect works closely with liaison partners including international
+organizations such as ISO, OASIS and M3AAWG.
+
+The procedures used to develop this document and those intended for its
+further maintenance are described in the CalConnect Directives.
+
+In particular the different approval criteria needed for the different
+types of ISO documents should be noted. This document was drafted in
+accordance with the editorial rules of the CalConnect Directives.
+
+Attention is drawn to the possibility that some of the elements of this
+document may be the subject of patent rights. CalConnect shall not be
+held responsible for identifying any or all such patent rights. Details
+of any patent rights identified during the development of the document
+will be in the Introduction and/or on the CalConnect list of patent
+declarations received (see www.calconnect.com/patents).
+
+Any trade name used in this document is information given for the
+convenience of users and does not constitute an endorsement.
+
+This document was prepared by Technical Committee
+_{technical-committee}_.
+
+
+:sectnums!:
+== Introduction
+
+The process defined below is for non-administrative documents. Due to
+their internal nature, administrative documents will generally not go
+through this process. However, CalConnect Interoperability Test Event
+reports (both the public and internal versions) will go through an
+abbreviated last call and approval by TC CHAIRS as noted in Section 7
+below.
+
+This standard supersedes the following documents:
+
+* I0701 CalConnect Document Public Review and Comment
+* I0702 CalConnect Document Classification and Numbering
+* I0703 CalConnect Document Processes and Management
+
+:sectnums:
+
+== Scope
+
+This document addresses publication processes for these defined types
+of documents:
+
+* Standards
+* Public Specifications
+* Public Reports, such as for conference and IOP test events.
+
+== Normative References
+
+This document has no normative references.
+
+== Terms And Definitions
+
+
+=== CalConnect publication
+
+
+
+=== interoperability test event
+alt:[IOP test]
+
+event where interoperability testing of one or more specifications and
+standards from CalConnect are performed
+
+=== technical committee
+
+internal committee of CalConnect tasked with a scope of work that it
+owns
+
+=== project
+
+scope of work that needs to be performed potentially with multiple work
+items
+
+=== work item
+
+=== project owner
+
+entity with authority in charge of a project
+
+
+== Process
+
+=== General
+
+Every CalConnect document is a project.
+
+A CalConnect project goes through the following processes:
+
+* starts with a proposal;
+* the proposal is given to the approving entity for enactment;
+* assigns a committee as project owner once the project is approved;
+* the committee creates one or more working drafts from the proposal;
+* the committee decides to endorse a committee draft;
+* the approved committee draft becomes a standards draft
+* the draft standard is given to the approving entity for endorsement;
+* the draft standard is approved for publication as a standard.
+
+NOTE: TODO: joint publishing
+
+
+=== Ownership
+
+. All CalConnect non-administrative documents must be owned by a single
+Technical Committee ( the "`owning`" Technical Committee) even if two
+or more TCs participate in the work of developing the document.
+
+. When a Technical Committee completes its scope of work and is shut
+down, the ownership of its documents moves to the TC CHAIRS committee.
+
+. TC CHAIRS may retain ownership of a document once assigned to it, or
+it may assign the document to a different or new Technical Committee,
+generally if follow-on work or maintenance is required on the document.
+
+
+=== Project Initiation
+
+. A document can be initiated in one of the following ways:
+
+.. A document or documents are defined as part of the charter process;
+
+.. a Technical Committee decides to create a new document as an
+addition to its program of work;
+
+.. TC CHAIRS or the Steering Committee decides that a document should
+be developed and assigns it to a Technical Committee.
+
+. When a document is initiated its scope, target audience and a
+schedule for development and publication should also be established by
+the owning Technical Committee.
+
+
+
+=== Development
+
+. All documents other than administrative documents must have an editor
+or editors who are members of the Technical Committee(s) developing the
+document.
+
+. Each new draft version of the document as it is developed shall be
+posted by the editor(s) on the CalConnect Document Repository. A
+version is defined as a checkpoint where the developers want review
+from other individuals than active contributors. The availability of
+each new draft version shall be announced to the mailing lists of all
+contributing TCs.
+The new draft version may also be announced to the calconnect-l mailing
+list if cross-CalConnect comment is requested.
+
+. Draft versions of the document are CalConnect internal documents and
+must have the appropriate internal "`boilerplate`" material (Statement
+of IPR, etc.) inserted following the title page. The title page if an,y
+and every page of the document if possible, should emphasize that this
+is a draft document.
+
+. A draft version of a document may be posted for external review and
+comments upon approval by TC CHAIRS (see CalConnect Document Public
+Review and Comment). This would normally be done when the document is
+well-developed and external input and comment are appropriate. Note
+that a draft version of a document posted for external review and
+comment must have the appropriate "`external review & comment`" version
+of the "`boilerplate`" material (see CalConnect Document Public Review
+and Comment).
+
+. Once initial approval is given by TC CHAIRS a document may be posted
+for external review & comment multiple times until the final version
+for publication is ready.
+
+
+=== Last call and approval
+
+. When the owning Technical Committee deems a document under
+development to be ready for publication, the Chair of the owning
+Technical Committee shall arrange for a last call for comments within
+all developing Technical Committees, for a period of at least one week.
+
+. Following the TC last call, the Chair of the owning Technical
+Committee shall issue a last call for comments to both TC CHAIRS and to
+the full CalConnect mailing list for a period of at least two weeks.
+
+. If the document has been posted for external review & comment at some
+point in its development, the final draft shall also be posted for
+external review & comment at the same time and for the same period as
+the last call is issued to the full CalConnect mailing list (see
+CalConnect Document Public Review and Comment).
+
+. If significant changes result from the review and comment during the
+final reviews and last call processes, the Chair of the owning
+Technical Committee shall issue another last call for comments.
+
+. During the Last Call process, the Technical Committee or a
+representative must review the CalConnect Glossary to identify any
+changes or additions that should be made as a consequence of the new or
+revised document. Such changes must be delivered by the Chair of the
+Technical Committee to the Chair of TC USECASE, the owner of the
+Glossary, before the vote for publication of the document.
+
+. Once the document completes review and last call without other than
+minor editorial changes, the Chair of the owning Technical Committee
+shall propose it to the Chair of TC CHAIRS for approval for
+publication. At this time the Chair of the owning Technical Committee
+must confirm to the Chair of TC CHAIRS that the Glossary review and
+update process has been completed.
+
+. The Chair of TC CHAIRS shall conduct a poll of TC CHAIRS members for
+a vote to approve publication. The results of the poll however
+conducted shall be posted to the TC CHAIRS mailing list and TC CHAIRS
+archive on the CalConnect Document Storage Facility.
+
+
+. Fast Track Approval for Updates:
+
+.. When an updated version of a document has been completed and
+reviewed by the authoring Technical Committee, the Chair of that TC may
+petition the Chair of TC CHAIRS for fast track approval if the changes
+are not substantial. Petition is done via e-mail, copying the TC CHAIRS
+list. If the chair of TC-Chairs is also the author or co-author of the
+document being updated, or is also the chair of the TC submitting the
+document, he or she must delegate the act of fast track approval to
+another TC chair who does not have a conflict of interest.
+
+.. If the Chair of TC CHAIRS determines that the changes do not
+constitute a substantial update, he or she may approve the updated
+version for immediate publication. However, there will be a minimum
+two-business-day wait before fast track approval is granted to ensure
+comments or objections are received from other TC Chairs following the
+post to the mailing list requesting the fast track approval. Any
+objection to the fast track approval within the two-business-day limit
+will immediately cancel the fast track approval and start the regular
+last call process.
+
+.. If the Chair of TC CHAIRS determines that the changes do constitute
+a substantial update, the revised document will go through the regular
+last call and approval process as documented in this section.
+
+
+=== Publication
+
+. Once TC CHAIRS approves a document for publication, the Chair of the
+owning Technical Committee shall forward the final draft of the
+document to the Executive Director of the Consortium for publication on
+the Consortium Website.
+
+. When a document is approved for publication or distribution, its
+name, category, version and document number (see the Proposal for
+Document Formalization) shall be registered in the CalConnect Document
+Register (see CalConnect Document Classificaton and Numbering).
+
+. The "`boilerplate`" statements of IP, appropriate usage and
+disclaimer will be changed to the external (public) statement.
+
+. Internal documents are made available only to members of CalConnect
+via the members area of the CalConnect website, and are registered in
+the CalConnect Internal Document Register.
+
+
+=== Stub Documents
+
+. In some cases, upon completion of last call and approval for
+publication, a proposal may be sent immediately to the IETF or another
+standards body for progression to become a standard. In this case a
+"`stub`" document which links to the document at the target standards
+body shall be published with a document number, title, etc. assigned.
+
+. It is anticipated that such documents will be progressed and modified
+according to the processes of the recipient standards body. CalConnect
+shall attempt to ensure that the link in the stub document link remains
+valid, and if possible for the current version of the document.
+
+. If a proposal is published in the normal format and at a subsequent
+time a decision is made to forward it to a standards body for
+progression as a standard, a new version with a stub document as
+described above will be published on the CalConnect website.
+
+
+=== Maintenance and revisions
+
+. A document once published may undergo revision and become a new
+version or dot release (i.e. V1-V2 or V2.0-V2.1) under several
+circumstances.
+
+. When a document is revised, any changes (as opposed to editorial
+corrections) should result in the document going through the same
+review and last call process which was used originally unless the Chair
+of the originating TC successfully petitions the Chair of TC CHAIRS for
+fast track approval in accordance with Section 4.g.
+
+. A change log shall be provided as an appendix to all documents
+following their initial publication. The change log will document each
+new update and the changes made to the document.
+
+
+=== Interoperability Test Event Reports
+
+. CalConnect Interoperability Test Event (C.I.T.E.) reports are created
+in both external (public) and internal versions by TC IOPTEST. However
+review and approval is conducted by all participants in the relevant
+C.I.T.E. regardless of membership status.
+
+. When the external and internal versions of the C.I.T.E. reports have
+been completed, reviewed and approved by the participants in the event,
+the Chair of TC IOPTEST shall issue an abbreviated last call to the
+full CalConnect mailing list for a period of one week.
+
+. Upon completion of the last call process the Chair of TC IOPTEST
+shall propose the external and internal documents to the Chair of TC
+CHAIRS for approval for publication.
+
+
+== Public Review And Comments
+
+=== General
+
+CalConnect has several times encountered issues in the development of
+documents where some mechanism to allow external (public) review and
+comment on a document would be very useful. As the number and type of
+CalConnect documents has increased, the value of such an external
+review mechanism has increased. Therefore, this process for
+external/public review and comment is intended to allow a public
+review/comment mechanism which can be used when needed and also
+provides a mechanism for unsolicited comment about already-published
+documents.
+
+==== Public review and comment mailing list
+
+. CalConnect will establish a public review and comment mailing list
+with the same implementation parameters as the existing calendar
+administration list. That is, the public review list will be open to
+subscription by any interested parties, but subscription will be
+subject to approval by the list moderator and the list will be
+continuously moderated.
+
+. The Charter and Rules of Use for this list will be modeled on the
+ones for the `caladmin-l` list, with the following changes:
+
+.. It is the responsibility of all participants on the list to ensure
+that their comments adhere to the CalConnect Intellectual Property
+Rights policy with respect to contributions.
+
+.. While all participants on this list are free to contribute
+suggestions and comments, the actual process of development and
+revision of any CalConnect Document must be made by the Technical
+Committees developing the document, and by members of the Consortium.
+
+. When a draft document is made available for public review it shall be
+announced on the public review mailing list, on the general calconnect
+list, and on the CalConnect home page.
+
+. Participants on the public review mailing list may offer comments not
+only upon documents currently posted for review and comment, but upon
+published documents of the Consortium.
+
+. The TC CHAIRS committee has overall control of the public review list
+and process including what documents may be posted, the duration of
+postings, etc.
+
+==== Documents eligible for public review and comment
+
+. At the request of the Chair of the owning Technical Committee and
+upon approval of TC CHAIRS, any in-development document intended for
+publication is eligible for posting to the public review list.
+
+. A document or section of a document may be posted for public review
+and comment at any point within its development but generally it should
+be well-formed and close to final draft before such posting.
+
+. If a section of a larger document is posted to the public review
+list, the context of the section must be made clear so that relevant
+comments can be made.
+
+. When a document previously posted for public review is finally
+published, a notification of the fact will be posted to the public
+review list along with any title changes.
+
+==== Technical Committee responsibilities
+
+. Since posting a document for public review and comment invites non-
+Consortium individuals to participate, the Technical Committee which
+posts the document is responsible for monitoring comments on the public
+review list and acting upon them as appropriate.
+
+. Since any participant on the public review list may comment upon any
+published document at any time, the list moderator will monitor the
+list for comments on such documents and bring those comments to the
+attention of TC CHAIRS.
+
+
+== Document Classification And Numbering
+
+=== General
+
+CalConnect has not had any document taxonomy, nor any structural or
+syntactical rules other than the title page and the "`boilerplate`"
+which provides the statement of intellectual property rights, statement
+of appropriate usage, and disclaimer of warranty. The Steering
+Committee and Board of Directors have recently also approved a formal
+"`internal`" boilerplate statement to be used on in-progress documents
+and on documents which will remain internal (such as internal reports
+of IOP test events). Documents produced by Technical Committees have in
+general followed a rather loose "`narrative`" structure, but usually
+contain an introduction, a table of contents and external references.
+
+The need for better guidelines for document structure, and a taxonomy
+of document types, has grown as the variety of documents produced by
+Technical Committees grows, and also as the actual number of documents
+increases. There have also been discussions of ways to allow external
+review and comment on CalConnect documents, and provisions to maintain
+them over time following original publication, which will require a
+more rigorous structure and better processes (processes are the subject
+of a parallel proposal). Finally, processes may vary depending on the
+type of document and its purpose.
+
+At the same time, CalConnect has generally adhered to a "`minimalist`"
+model for administrative processes and structures, rather than
+preemptive implementation of administrative elements and the consequent
+additional burden placed upon participants and staff, and this proposal
+follows that spirit.
+
+
+=== Document Type Classification
+
+All documents must have at least one document type, or category. A
+document may appear in more than one category, if appropriate.
+
+Report::
+A document reporting on an event or presenting findings of a study or
+research effort, which may reach conclusions but does not contain
+suggestions for action, except incidentally.
+
+Recommendation::
+A document discussing problems or issues and making suggestions for
+action.
+
+Proposal::
+An experimental specification intended for research and exploration,
+e.g. through trial implementations, to determine its usefulness and
+applicability. Proposals deemed successful would be candidates to be
+offered to an appropriate standards body for adoption and progression
+as a standard.
+
+Administrative::
+A document type for meeting minutes, proposals to committees, policy
+documents, and other material, generally of an internal nature.
+
+Presentation::
+The slides from a presentation in PowerPoint or equivalent format,
+converted to a PDF file. A Presentation will normally have an
+additional category, such as Report.
+
+Web::
+Pages on the CalConnect website are not a priori documents within this
+classification system but may be documents with the assignment of a
+document number, etc.
+
+
+=== Document Numbering
+
+. A sequential numbering system for public CalConnect documents will be
+implemented, and existing documents will be retrofitted to the scheme
+as practical. A document index will be maintained on the CalConnect
+website with documents listed by number, name, and type.
+
+. The document number shall be of the form `CDyynn`, where `yy` is the
+year of publication and `nn` is a sequential number through the year.
+
+. The single sequential numbering system shall apply to all public
+document types. The number shall not include administrative information
+such as document type (classification) or version.
+
+. A document shall be assigned its number and placed in the document
+index upon original publication.
+
+. A document will retain the same number when updated; the version
+number will indicate the current version and status.
+
+
+=== Document Structure
+
+==== Cover Page
+
+The cover page will contain:
+
+. CalConnect logo or logotype
+
+. Document number
+
+. Document classification (report, recommendation, etc.)
+
+. Document title
+
+. Document version number (e.g.V1.0, etc.) and status (draft, final)
+
+. Date of publication
+
+. Producing committee if appropriate
+
+. Incorporation by reference and hyperlink of the appropriate
+statements of Intellectual Property Rights, Appropriate Usage,
+Trademarks, and Disclaimer of Warranty
+
+==== Editors, Authors and Abstract
+
+The editors, authors and/or contributors, and an abstract should be
+provided if appropriate on a title page or at the beginning of the
+document.
+
+==== Table of Contents
+
+A Table of Contents will be provided unless the document is very short.
+
+==== Sections and Subsections
+
+The body of the document will have section and subsection identifiers
+to make it easy to refer clearly to specific items in the document.
+
+==== Paragraph and Line Numbers
+
+Individual paragraph or line numbers are not required but may be used
+at the discretion of the document editors if they feel it enhances the
+clarity of the document.
+
+==== References
+
+Any informative or normative references will be fully cited at the end
+of the document.
+
+==== Glossary
+
+A glossary may be provided if appropriate.
+
+==== Index
+
+An index may be provided if appropriate.
+
+==== Change Log
+
+A change log shall be provided as an appendix to all documents
+following their original publication.
+
+==== Page Numbers
+
+All documents will have page numbers beginning with the title page or
+first page of the document.
+
+
+==== Copyright Statement
+
+A copyright statement of the form shown below must appear on the cover,
+title, or first page of the document. Note that "`yyyy`" is the 4-digit
+year, such as "`2009".
+
+----
+© yyyy The Calendaring and Scheduling Consortium, Inc. All Rights Reserved.
+----
