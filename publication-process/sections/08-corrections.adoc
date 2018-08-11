@@ -1,0 +1,9 @@
+
+[[corrections]]
+== Corrections and amendments
+
+=== Comment distribution
+
+Formal comments on a standardization deliverable shall be shared
+with the owning TC within 2 weeks of receiving them.
+

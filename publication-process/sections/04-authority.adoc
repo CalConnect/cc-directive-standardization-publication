@@ -1,0 +1,35 @@
+
+[[authority]]
+== Authority
+
+=== Responsibility of TC PUBLISH and the TCC
+
+TC PUBLISH is responsible for:
+
+* development and maintenance of the CalConnect standardization process; and
+* development and maintenance of the CalConnect publication requirements.
+
+TCC is responsible for:
+
+* maintenance and execution of the CalConnect standardization process; and
+* enforcing CalConnect publication requirements on the publication
+  of CalConnect deliverables.
+
+=== Mediator role
+
+The TCC is responsible for raising any issues concerning the processes and
+procedures described in this document to TC PUBLISH for review.
+
+=== Coordination role
+
+The TCC is responsible for supporting liaisons between
+CalConnect technical committees and project teams with
+the corresponding parties of external standardization bodies.
+
+////
+=== Terms of reference
+
+The terms of reference for the co-ordination group will be developed
+and accepted by OGC and {collaborative-iso-tc} prior to the establishment of the
+group.
+////

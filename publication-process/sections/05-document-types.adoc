@@ -1,0 +1,31 @@
+
+[[document-types]]
+== Document types
+
+All documents must have at least one document type, or category. A
+document may appear in more than one category, if appropriate.
+
+Standards::
+Normative documents created through the CalConnect standardization process.
+
+Guides::
+Guidelines. A document discussing problems or issues and making suggestions for
+action.
+
+Specifications::
+Informative specifications for the public.
+An experimental specification intended for research and exploration,
+e.g. through trial implementations, to determine its usefulness and
+applicability. Proposals deemed successful would be candidates to be
+offered to an appropriate standards body for adoption and progression
+as a standard.
+
+Reports::
+Internal and public reports, such as reporting on conference and IOP test events.
+A document reporting on an event or presenting findings of a study or
+research effort, which may reach conclusions but does not contain
+suggestions for action, except incidentally.
+
+Administrative::
+A document type for meeting minutes, proposals to committees, policy
+documents, and other material, generally of an internal nature.
