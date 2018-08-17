@@ -116,6 +116,18 @@ _documents_ (<<term-document>>) developed under this agreement,
 held by the corresponding _Joint Coordination Group_ (<<term-jcg>>)
 
 
+[[term-board]]
+==== CalConnect Board of Directors
+
+persons serving as a Board Director for and with a statutory obligation
+to CalConnect
+
+[[term-repo]]
+==== CalConnect Document Repository
+
+designated repository used to store CalConnect documents
+
+
 === Abbreviations
 
 IPR:: Intellectual Property Rights

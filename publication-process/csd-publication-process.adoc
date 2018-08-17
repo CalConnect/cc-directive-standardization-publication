@@ -1,17 +1,16 @@
-= CalConnect Publication Processes And Requirements
-:title: CalConnect Publication Processes And Requirements
-:docnumber: CD 18XX
+= CalConnect Directives: Standardization and publication
+:title: CalConnect Directives: Standardization and publication
+:docnumber: CD 10001
 :copyright-year: 2018
 :language: en
 :doctype: standard
 :edition: 1
 :status: draft
-:revdate: 2018-04-22T00:00:00Z
+:revdate: 2018-08-15T00:00:00Z
 :language: en
 :technical-committee: PUBLISH
 :toc:
 :stem:
-
 
 :sectnums!:
 
@@ -27,14 +26,11 @@ include::sections/04-authority.adoc[]
 include::sections/05-document-types.adoc[]
 include::sections/06-process.adoc[]
 include::sections/07-public-review.adoc[]
-include::sections/08-corrections.adoc[]
-include::sections/08-ipr.adoc[]
-include::sections/09-maintenance.adoc[]
-include::sections/10-registration.adoc[]
-
-
+include::sections/08-comments.adoc[]
+include::sections/09-corrections.adoc[]
+include::sections/10-ipr.adoc[]
+include::sections/11-maintenance.adoc[]
+include::sections/12-registration.adoc[]
 
 include::sections/99-bibliography.adoc[]
-
-
 

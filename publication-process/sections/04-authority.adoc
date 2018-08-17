@@ -2,29 +2,46 @@
 [[authority]]
 == Authority
 
-=== Responsibility of TC PUBLISH and the TCC
+=== General
+
+TC PUBLISH is responsible for developing the corresponding processes
+and tools, while the TCC for their employment.
+
+=== TC PUBLISH
 
 TC PUBLISH is responsible for:
 
-* development and maintenance of the CalConnect standardization process; and
-* development and maintenance of the CalConnect publication requirements.
+* policy development: providing recommendations to the Board of
+  Directors and the TCC on the CalConnect standardization and
+  publication processes;
 
-TCC is responsible for:
+* policy establishment: developing and supporting process
+  documents, including:
 
-* maintenance and execution of the CalConnect standardization process; and
-* enforcing CalConnect publication requirements on the publication
-  of CalConnect deliverables.
+** this document; and
+** CalConnect publication requirements; and
 
-=== Mediator role
+* maintenance: periodic review and perform amendments necessary
+  to support the processes and requirements established in this
+  document.
 
-The TCC is responsible for raising any issues concerning the processes and
-procedures described in this document to TC PUBLISH for review.
+=== TCC
 
-=== Coordination role
+The TCC is responsible for:
 
-The TCC is responsible for supporting liaisons between
-CalConnect technical committees and project teams with
-the corresponding parties of external standardization bodies.
+* execution: faithful execution and maintenance of the CalConnect
+  standardization process;
+
+* enforcement: enforcing CalConnect publication requirements on the publication
+  of CalConnect deliverables;
+
+* mediation: raising issues and problems encountered concerning the processes
+  and procedures described in this document to TC PUBLISH for
+  further consideration; and
+
+* coordination: supporting liaisons between CalConnect technical committees and
+  project teams with corresponding parties of external standardization
+  bodies.
 
 ////
 === Terms of reference

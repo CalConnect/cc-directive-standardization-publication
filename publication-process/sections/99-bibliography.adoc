@@ -2,7 +2,7 @@
 [bibliography]
 == Bibliography
 
-* [[[WTOTBT,WTO TBT Agreements]]], World Trade Organization, _The WTO Agreements Series Technical Barriers to Trade_
+* [[[WTOTBT,WTO Technical Barriers To Trade Agreements]]], World Trade Organization, _The WTO Agreements Series Technical Barriers to Trade_
 
-* [[[CALSTD,CalConnect Standing Document: Document requirements]]], CalConnect Standing Document: _Document requirements_
+* [[[CS10002,CS 10002:2018]]], _CalConnect Directives: Standard document requirements_
 

@@ -16,7 +16,7 @@ will be jointly owned by CalConnect and its authors.
 Authors of CalConnect deliverables grant CalConnect a world-wide,
 non-exclusive, non-sub-licensable license
 (except for the submission and adoption by other standardization bodies),
-to use contents of submitted documents to ISO,
+to use contents of submitted documents to CalConnect,
 for the development and publishing of the deliverables.
 
 

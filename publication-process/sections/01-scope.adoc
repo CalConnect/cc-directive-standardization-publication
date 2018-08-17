@@ -1,15 +1,25 @@
 
 == Scope
 
-This document addresses publication processes for these defined types
-of documents:
+This document formalizes the standardization and publication processes
+of CalConnect.
 
-* CalConnect Standards: normative documents through the CalConnect standardization process
-* CalConnect Guides: guidelines
-* CalConnect Specifications: informative specifications for the public
-* CalConnect Reports: internal and public reports, such as reporting on conference and IOP test events.
+Specifically, it describes the processes and requirements for the
+standardization and publication of the following document types
+produced by CalConnect, including:
 
-////
-Standardization processes in this document is intended to align
-with <<ISODIR1>> and <<ISODIR1C>>,
-////
+Standards:: normative documents developed through the CalConnect standardization process
+
+Guides:: guidelines
+
+Specifications:: informative specifications for the public
+
+Reports:: internal and public reports, such as conference or event reports.
+
+This document does not apply to the following types of documents
+produced by CalConnect, although processes described in this document
+can be optionally used as guidance for rigor:
+
+* policy statements;
+* internal administrative documents; and
+* how-to guides.

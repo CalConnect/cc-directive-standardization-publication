@@ -30,12 +30,14 @@ the stage of pre-publication.
 ////
 
 
-=== Mailing lists
+=== Informal comments via public review mailing list
 
-The CalConnect public review list is open to subscription by
-any interested parties, but subscription will be
-subject to approval by the list moderator and the list will be
-continuously moderated.
+Informal comments can be solicited from and posted to the
+CalConnect public review mailing list.
+
+This list is open to subscription by any interested parties,
+but subscription will be subject to approval by the list
+moderator and the list will be continuously moderated.
 
 The Charter and Rules of Use for the list include:
 
@@ -48,7 +50,6 @@ suggestions and comments, the actual process of development and
 revision of any CalConnect Document must be made by the Technical
 Committees developing the document, and by members of the Consortium.
 
-
 Participants on the public review mailing list may offer comments not
 only upon documents currently posted for review and comment, but upon
 published documents of the Consortium.
@@ -56,6 +57,24 @@ published documents of the Consortium.
 The TCC committee has overall control of the public review list
 and process including what documents may be posted, the duration of
 postings, etc.
+
+For details of handling informal comments, see <<comments-informal>>.
+
+
+=== Formal comments via dedicated site
+
+Formal comments have to be submitted via the CalConnect commenting site.
+
+In a public review process where formal comments are received:
+
+* the full list of formal comments are only viewable by CalConnect
+members;
+
+* formal comments from non-CalConnect members should be addressed
+and communicated to the commenter individually.
+
+For details of handling formal comments, see <<comments-formal>>.
+
 
 
 [[announcement-channels]]

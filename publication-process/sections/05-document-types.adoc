@@ -5,6 +5,10 @@
 All documents must have at least one document type, or category. A
 document may appear in more than one category, if appropriate.
 
+Directives::
+Internal normative documents approved by the CalConnect Board of Directors,
+developed by TC PUBLISH, that guide processes and procedures
+
 Standards::
 Normative documents created through the CalConnect standardization process.
 
@@ -21,7 +25,7 @@ offered to an appropriate standards body for adoption and progression
 as a standard.
 
 Reports::
-Internal and public reports, such as reporting on conference and IOP test events.
+Internal and public reports, such as reporting on conference and other events.
 A document reporting on an event or presenting findings of a study or
 research effort, which may reach conclusions but does not contain
 suggestions for action, except incidentally.

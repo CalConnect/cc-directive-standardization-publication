@@ -19,11 +19,8 @@ When a document is revised, any changes (as opposed to editorial
 corrections) should result in the document going through the same
 review process originally used for its publication.
 
-
-(TODO: do we need this?)
-A change log shall be provided as an appendix to all documents
-following their initial publication. The change log will document each
-new update and the changes made to the document.
+A summary of changes from the previous edition should be
+provided at the end of the Foreword.
 
 
 === New versions
