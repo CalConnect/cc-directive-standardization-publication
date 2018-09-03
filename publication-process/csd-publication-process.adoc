@@ -1,12 +1,12 @@
-= CalConnect Directives: Standardization and publication
-:title: CalConnect Directives: Standardization and publication
-:docnumber: CD 10001
+= CalConnect Directive: Standardization and publication
+:title: CalConnect Directive: Standardization and publication
+:docnumber: CC/DIR 10001
 :copyright-year: 2018
 :language: en
 :doctype: standard
 :edition: 1
 :status: draft
-:revdate: 2018-08-15T00:00:00Z
+:revdate: 2018-09-03T00:00:00Z
 :language: en
 :technical-committee: PUBLISH
 :toc:

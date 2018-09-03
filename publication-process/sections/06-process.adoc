@@ -17,7 +17,7 @@ A CalConnect project goes through the following processes:
 * the draft standard is given to the approving entity for endorsement;
 * the draft standard is approved for publication as a standard.
 
-NOTE: TODO: joint publishing
+//NOTE: TODO: joint publishing
 
 
 === Project stages
@@ -462,4 +462,8 @@ time a decision is made to forward it to a standards body for
 progression as a standard, a new version with a stub document as
 described above will be published on the CalConnect website.
 
+
+=== Document requirements
+
+Requirements of a CalConnect document are stated in <<CC10002>>.
 

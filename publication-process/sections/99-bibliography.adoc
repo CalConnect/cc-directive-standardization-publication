@@ -4,5 +4,5 @@
 
 * [[[WTOTBT,WTO Technical Barriers To Trade Agreements]]], World Trade Organization, _The WTO Agreements Series Technical Barriers to Trade_
 
-* [[[CS10002,CS 10002:2018]]], _CalConnect Directives: Standard document requirements_
+* [[[CC10002,CC/DIR 10002:2018]]], _CalConnect Directive: Standard document requirements_
 
