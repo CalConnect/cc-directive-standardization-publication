@@ -34,7 +34,7 @@ This document was prepared by Technical Committee
 _{technical-committee}_.
 
 This document, together with
-CS 10002 "`CalConnect Directives -- Standard document requirements`",
+CC 10002 "`CalConnect Directives -- Standard document requirements`",
 replaces the following documents:
 
 * I0701 CalConnect Document Public Review and Comment
