@@ -9,14 +9,13 @@
 [[term-std-project]]
 ==== standardization project
 
-an organized process with one or more standardization work items that
-contributes towards a defined scope of work
+an organized process with one or more _standardization work items_ (<<term-std-work-item>>)
+that contributes towards a defined scope of work
 
 [[term-std-work-item]]
 ==== standardization work item
 
-publishable work item that creates output that relates
-to standardization within a _standardization project_ (<<term-std-project>>)
+publishable _document_ (<<term-document>>) that relates to standardization
 
 [[term-project-owner]]
 ==== project owner
@@ -27,7 +26,7 @@ entity with authority in charge of a _standardization project_
 [[term-document]]
 ==== document
 
-written output of a work item
+written output
 
 [[term-cc-deliverable]]
 ==== CalConnect deliverable

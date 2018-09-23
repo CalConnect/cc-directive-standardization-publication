@@ -19,7 +19,6 @@ A CalConnect project goes through the following processes:
 
 //NOTE: TODO: joint publishing
 
-
 === Project stages
 
 The following table provides a mapping between CalConnect project stages and
@@ -108,12 +107,17 @@ synchronicity between development outcome and publication.
 
 === Project ownership
 
+==== General
+
 All CalConnect non-administrative documents must be owned by a single
 Technical Committee (the "`owning`" Technical Committee) even if two
 or more TCs participate in the work of developing the document.
 
-When a Technical Committee completes its scope of work and is shut
-down, the ownership of its documents moves to the TCC committee.
+
+==== Transition of ownership on TC retirement
+
+When a TC completes its scope of work and is shut down, the ownership
+of its documents moves to the TCC.
 
 TCC may retain ownership of a document once assigned to it, or
 it may assign the document to a different or new Technical Committee,
@@ -121,6 +125,27 @@ generally if follow-on work or maintenance is required on the document.
 
 
 === Project membership
+
+==== General
+
+The owning TC is responsible for maintaining expert membership of a
+project group.
+
+CalConnect members are allowed to nominate experts to the project group
+with approval of the owning TC.
+
+At least one person, at most two, serves as project leader, as decided
+by the owning TC.
+
+The project leader(s) shall assume project editorship unless that
+activity is specifically assigned to another individual.
+
+
+==== External members
+
+Individuals who are not members of CalConnect are only allowed to participate in
+a project unless specifically authorized by the project owning TC, in consultation
+with the project leader, and approved by the TCC.
 
 
 ==== Co-development guidelines
@@ -217,6 +242,11 @@ If rejected, its output may still be developed by one or more members
 of CalConnect if appropriate, and the resulting output may still be
 proposed to the TCC for development in later stages.
 
+
+A "`Report`" document type shall be published upon a successful ballot
+of two-thirds approval at this stage.
+
+
 ===== Co-development guidelines
 
 The TCC should also consider JCGs whether a proposal is suitable
@@ -234,10 +264,11 @@ This is an optional stage.
 The goal of the preparatory stage is to create a "`working draft`"
 of the deliverable approved by the project group within the TC.
 
-The owning TC issues a ballot for the TC membership to
-approve the working draft. (TODO: time allowed?)
+Once the project team decides the working draft has advanced
+to being a "`committee draft`" or a "`draft standard`", this
+stage ends.
 
-
+There is no ballot at this stage.
 
 
 ==== Committee stage
@@ -247,28 +278,51 @@ This is an optional stage.
 The goal of the committee stage is to create a "`committee draft`"
 of the deliverable approved by the TC.
 
-The owning TC issues a ballot for the TC membership to
-approve the committee draft. (TODO: time allowed?)
+The owning TC distributes the committee draft and may select a 8-week or 10-week
+comment period for TC members to comment.
+
+Within 4 weeks of completion of the comment period, the owning TC shall distribute
+all formal comments received during ballot to TC members.
+
+Given the results of comments, the Chair of the TC, considering TC consensus,
+in consultation with the project leader (if necessary),
+shall decide on the below outcomes:
+
+. to prepare and circulate a revised committee draft for consideration; or
+
+. to register the committee draft for the enquiry stage.
+
+In case TC consensus is unclear from the results, a ballot (<<process-balloting>>) can be launched
+to determine consensus for stage advancement.
+
+A "`Specification`" document type shall be published upon advancement
+to the enquiry stage.
 
 
-
+[[stage-enquiry]]
 ==== Enquiry stage
 
 The goal of the enquiry stage is to create a "`draft standard`"
-of the deliverable approved by the CalConnect membership.
+of the deliverable approved by the TC.
+
+The public review period (<<public-review>>) shall be started within
+4 weeks of entering this stage.
 
 Once the owning TC deems a document under development to be
 ready for publication, the Chair of the owning TC shall arrange
-for a last call for comments within
-all developing Technical Committees and the TCC,
-for a period of at least one week.
+for an official ballot (<<process-balloting>>) amongst TC members.
+"`No`" votes must be accompanied with technical reasons.
 
-If there are no "`No`" votes registered in the DIS ballot,
-the project is deemed to have unanimous support and able
-to be fast-tracked.
-In this condition, there is no need for an additional draft
-or a call for comments to the TCC and the full CalConnect
-mailing list; the Approval stage ballot in the TCC can start right away.
+If no "`No`" votes were registered in the DIS ballot,
+the project is deemed to have unanimous support. It shall be fast-tracked
+towards the Approval stage for TCC ballot.
+
+If the ballot was successful but at least one "`No`" vote has been received,
+the project is advanced to Approval stage.
+
+If the ballot failed, the Chair of the owning TC, in consultation
+with the project leader to decide whether to prepare and circulate a revised
+draft standard for re-balloting.
 
 
 ===== Co-development guidelines
@@ -303,29 +357,34 @@ Specifically:
 The goal of the approval stage is to create a "`final draft standard`"
 of the deliverable approved by the CalConnect membership.
 
-Following the TC last call, the Chair of the owning TC
-shall issue a last call for formal comments to both TCC and to
-the full CalConnect mailing list for a period of at least two weeks.
+The public review period (<<public-review>>) shall be started within
+4 weeks of entering this stage, unless the document has already
+been reviewed publicly at the Enquiry stage (<<stage-enquiry>>).
 
-Details of formal comments are described in <<comments-formal>>.
+A "`last call`" for formal comments shall be issued by the Chair of
+the owning TC to both TCC and to the full CalConnect mailing list
+of 8 weeks.
+
+The formal commenting process is described in detail at <<comments-formal>>.
 
 After the close of the commenting period, the Chair of TCC shall
-distribute the comments to the CalConnect membership, and
-conduct a ballot of TCC members for a vote to approve publication.
-
-The results of the poll conducted shall be posted to the
-TCC mailing list and the TCC archive on the
-CalConnect Document Repository.
+distribute the comments to the CalConnect membership within
+4 weeks of the close, and conduct a 8-week ballot (<<process-balloting>>)
+of TCC members for a vote to approve publication.
 
 All TCC members are required to vote in this ballot. A TCC member
 that did not vote in the TCC poll is considered to have violated
 membership terms of the TCC, and has a 3-week period to rectify.
 
-A "`No`" vote from a TCC member must be accompanied with constructive
+"`No`" votes from a TCC member must be accompanied with constructive
 comments.
 
-A document must obtain 2/3 of "`Yes`" votes out of voters who voted
-"`Yes`" or "`No`" from TCC members for its publication.
+If the ballot was successful, the project is deemed to be ready for
+publication and is advanced to the publication stage.
+
+If the ballot failed, the Chair of the owning TC, in consultation
+with the project leader to decide whether to prepare and circulate a revised
+final draft standard for re-balloting.
 
 
 [[draft-stages]]
@@ -416,6 +475,26 @@ the JCG, unless in exceptional circumstances.
 
 
 
+[[process-balloting]]
+=== Balloting
+
+A ballot is launched upon gauging consensus within a group
+(TC, TCC or amongst all members).
+
+In each ballot, a member is allocated three options:
+
+* Yes
+* No
+* Abstain
+
+A "`No`" vote must be accompanied by constructive comments. "`Abstain`" votes
+are not counted against the outcome.
+
+Consensus is considered to have been reached when there are two-thirds of "`Yes`" votes.
+
+
+
+
 === Notification
 
 Notification of availability of new documents within CalConnect
@@ -443,24 +522,27 @@ via the JCG.
 
 
 
-=== Stub documents
+=== External progression
 
-In some cases, upon completion of the approval stage,
-a proposal may be sent immediately to an external standardization
-body for progression to become a standard.
+In some cases, CalConnect deliverables are sent to be progressed
+at another standards body:
 
-In this case a "`stub`" document which links to the document at the target standards
-body shall be published with a document number, title, etc. assigned.
+* upon completion of the Approval stage, a CalConnect document may be sent
+  immediately to an external standardization body for progression
+  to become a standard; and
+
+* if a published CalConnect document is subsequently decided to
+  be forwarded to another standards body for progression.
+
+In these situations, the CalConnect document shall be accompanied by a
+link at the CalConnect website, that provides the document at the target standards
+body, completely with document number, title, etc. given by that
+standards body.
 
 It is anticipated that such documents will be progressed and modified
 according to the processes of the recipient standards body. CalConnect
-shall attempt to ensure that the link in the stub document link remains
-valid, and if possible for the current version of the document.
-
-If a proposal is published in the normal format and at a subsequent
-time a decision is made to forward it to a standards body for
-progression as a standard, a new version with a stub document as
-described above will be published on the CalConnect website.
+shall attempt to ensure that the link remains valid, and if
+possible for the most current version of the document.
 
 
 === Document requirements
