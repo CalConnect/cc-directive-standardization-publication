@@ -12,7 +12,7 @@ Copyright of standardization deliverables created under this document
 will be jointly owned by CalConnect and its authors.
 
 
-=== member-sourced documents
+=== Member-sourced documents
 
 Authors of CalConnect deliverables grant CalConnect a world-wide,
 non-exclusive, non-sub-licensable license
