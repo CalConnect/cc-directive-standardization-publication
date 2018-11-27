@@ -35,3 +35,9 @@ These comments do not require a response from the project team
 whose work is being commented on.
 
 
+[[comments-resolution]]
+=== Resolution of comments
+
+Comments and feedback on standardization work items
+shall be considered impartially and judged purely according
+to their technical contributions to the work item.

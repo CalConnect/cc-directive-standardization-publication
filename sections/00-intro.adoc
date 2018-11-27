@@ -8,7 +8,7 @@ practice.
 To facilitate its mission, the CalConnect Board of Directors has decided
 to align standardization and publication processes with international
 best practices, such as the ISO standardization process, and the
-<<WTOTBT>>.
+<<WTOTBTP>>.
 This document aims to achieve the said intention.
 
 The document describes the CalConnect standardization process, from

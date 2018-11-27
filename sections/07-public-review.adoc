@@ -6,7 +6,7 @@
 === General
 
 A public review period of 60 days is required for compliance to
-<<WTOTBT>> rules, which CalConnect adheres to.
+<<WTOTBTP,clause=1.d>>, which CalConnect adheres to.
 
 
 === Timing
