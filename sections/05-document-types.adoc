@@ -17,6 +17,9 @@ internal CalConnect processes.
 Normative documents created through the CalConnect standardization process
 that provide requirements, specifications or guidelines for the public.
 
+Requirements in standards shall be based on objective performance
+rather than based on descriptive characteristics.
+
 
 === Guide
 
