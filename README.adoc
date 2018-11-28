@@ -2,16 +2,17 @@
 :repo-owner: CalConnect
 :repo-name: csd-directive-standardization-publication
 
+
 This work item belongs to TC CALSPAM.
 
-image:https://travis-ci.com/{repo-owner}/{repo-name}.svg?branch=master["Build Status", link="https://travis-ci.com/{repo-owner}/{repo-name}"]
+image:https://travis-ci.com/CalConnect/csd-directive-standardization-publication.svg?branch=master["Build Status", link="https://travis-ci.com/CalConnect/csd-directive-standardization-publication"]
 
 This document is available in its rendered forms here:
 
-* https://{repo-owner}.github.io/{repo-name}/[{title} (HTML)]
-* https://{repo-owner}.github.io/{repo-name}/{repo-name}.pdf[PDF]
-* https://{repo-owner}.github.io/{repo-name}/{repo-name}.xml[Metanorma XML]
-* https://{repo-owner}.github.io/{repo-name}/{repo-name}.rxl[Relaton XML (Bibliographic item)]
+* https://CalConnect.github.io/csd-directive-standardization-publication/[CalConnect Directive: Standardization and publication (HTML)]
+* https://CalConnect.github.io/csd-directive-standardization-publication/csd-directive-standardization-publication.pdf[PDF]
+* https://CalConnect.github.io/csd-directive-standardization-publication/csd-directive-standardization-publication.xml[Metanorma XML]
+* https://CalConnect.github.io/csd-directive-standardization-publication/csd-directive-standardization-publication.rxl[Relaton XML (Bibliographic item)]
 
 Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
 
@@ -19,7 +20,7 @@ Because of all this, there is no need to build the document on your own, but if 
 
 [source,sh]
 ----
-git clone https://gitlab.com/{repo-owner}/{repo-name}/
+git clone https://gitlab.com/CalConnect/csd-directive-standardization-publication/
 ----
 
 == Installing Build Tools
