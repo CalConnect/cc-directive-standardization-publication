@@ -3,10 +3,10 @@
 .tmp.xml
 
 # Output files
-csand-*.html
-csand-*.doc
-csand-*.xml
-csand-*_files
+csd-*.html
+csd-*.doc
+csd-*.xml
+csd-*_files
 
 # Deploy key
 deploy_key
