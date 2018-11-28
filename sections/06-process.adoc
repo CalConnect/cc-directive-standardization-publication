@@ -182,6 +182,12 @@ by the proposer as part of the proposal to the TCC:
 
 . target audience
 
+. relevant regulatory or market needs (as feasible and appropriate)
+  (this satisfies <<WTOTBTP,clause=4.a>>)
+
+. current scientific and technological developments
+  (this satisfies <<WTOTBTP,clause=4.a>>)
+
 . schedule for development and publication
 
 . proposer, project leader
@@ -191,13 +197,20 @@ or editors who are members of the Technical Committee(s) developing the
 document.
 
 
+
 ===== Confirmation
 
 Once a project is confirmed initiation:
 
-* the project shall be assigned a project number as decided by the TCC; and
+. the project shall be assigned a project number as decided by the TCC;
 
-* the project's name and stage shall be listed in the project registry.
+. the project's name and stage shall be listed in the project registry
+  (this satisfies <<WTOTBTP,clause=1.a>>); and
+
+. the project will be announced by the TCC to all members with a
+  brief description of its scope (including objective and rationale)
+  at an early enough stage that facilitates amendments and comments
+  (this satisfies <<WTOTBTP,clause=1.b>>).
 
 NOTE: This document supports the creation of a project registry.
 
@@ -397,10 +410,12 @@ from individuals other than active contributors, typically at the
 end of a development stage when the draft is a candidate for ballot.
 
 . The availability of each new draft version shall be announced
-to all contributing TCs.
+to all TCs and as appropriately, to external liaison or partner
+working groups (this satisfies <<WTOTBTP,clause=1.c>>).
 
 . A draft version may be announced to the `calconnect-l` mailing
-list if CalConnect-wide membership comment is requested.
+list if CalConnect-wide membership comment is requested
+(this satisfies <<WTOTBTP,clause=1.c>>).
 
 . A draft version may be posted for external review and
 comments upon approval by TCC (see <<public-review>>).
@@ -413,6 +428,9 @@ for external review and comment multiple times.
 
 In every of the development stages, resolution of all outstanding
 comments is required to proceed towards ballot.
+
+
+
 
 
 [[pre-publication]]
@@ -435,9 +453,19 @@ Once TCC approves a document for publication, the Chair of the
 owning TC shall forward the final draft standard to the
 Executive Director of the Consortium for publication.
 
+A standard designated for public access will be distributed
+on the CalConnect document register (this satisfies <<WTOTBTP,clause=1.e>>).
+
 Internal documents are made available only to members of CalConnect
 via the members area of the CalConnect website, and are registered in
 the CalConnect Internal Document Register.
+
+For a co-published document, the following procedures apply:
+
+* For an ISO/CC dual-logo standard, after an ISO ballot on
+  the acceptance of a joint work item as DIS, FDIS or IS, the
+  joint work item will be published as a CalConnect Standard.
+
 
 ===== Statement changes
 
@@ -494,24 +522,11 @@ Consensus is considered to have been reached when there are two-thirds of "`Yes`
 
 
 
-
-=== Notification
-
-Notification of availability of new documents within CalConnect
-will be announced to the appropriate {collaborative-iso-tc} working groups
-and CalConnect technical committees.
-
 === Availability of working documents
 
 Drafts and working documents are available according to
 each party's normal practices.
 
-
-=== Distribution of publication
-
-After an ISO ballot on the acceptance of a joint work item as
-DIS, FDIS or IS, the joint work item will be published
-as a CalConnect Standard.
 
 
 === Promotional activities in co-developed projects
