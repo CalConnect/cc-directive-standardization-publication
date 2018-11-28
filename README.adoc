@@ -1,7 +1,6 @@
-= CalConnect Standard: Calendar operator practices -- Guidelines to protect against calendar abuse
+= CalConnect Directive: Standardization and publication
 :repo-owner: CalConnect
 :repo-name: csd-directive-standardization-publication
-:repo-title: CalConnect Directive: Standardization and publication
 
 This work item belongs to TC CALSPAM.
 
@@ -9,7 +8,7 @@ image:https://travis-ci.com/{repo-owner}/{repo-name}.svg?branch=master["Build St
 
 This document is available in its rendered forms here:
 
-* https://{repo-owner}.github.io/{repo-name}/[{repo-title} (HTML)]
+* https://{repo-owner}.github.io/{repo-name}/[{title} (HTML)]
 * https://{repo-owner}.github.io/{repo-name}/{repo-name}.pdf[PDF]
 * https://{repo-owner}.github.io/{repo-name}/{repo-name}.xml[Metanorma XML]
 * https://{repo-owner}.github.io/{repo-name}/{repo-name}.rxl[Relaton XML (Bibliographic item)]
