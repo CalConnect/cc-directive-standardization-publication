@@ -20,8 +20,6 @@
 include::sections/00-foreword.adoc[]
 include::sections/00-intro.adoc[]
 
-:sectnums:
-
 include::sections/01-scope.adoc[]
 include::sections/02-normrefs.adoc[]
 include::sections/03-terms.adoc[]
