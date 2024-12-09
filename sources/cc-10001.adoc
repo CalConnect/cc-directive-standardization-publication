@@ -9,6 +9,7 @@
 :published-date: 2019-01-18
 :technical-committee: PUBLISH
 :imagesdir: images
+:mn-document-class: cc
 :mn-output-extensions: xml,html,pdf
 :local-cache-only:
 :data-uri-image:
