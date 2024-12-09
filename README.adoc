@@ -6,7 +6,7 @@ image:https://github.com/CalConnect/cc-directive-standardization-publication/act
 
 This document is available in its rendered forms here:
 
-* https://calconnect.github.io/cc-directive-standardization-publication/[CalConnect Directive: Standard document requirements]
+* https://calconnect.github.io/cc-directive-standardization-publication/[CalConnect Directive: Standardization and publication]
 
 
 == Structure
