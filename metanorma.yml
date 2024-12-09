@@ -1,8 +1,9 @@
 ---
 metanorma:
-  deploy:
-    email: "ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/cc-10001.adoc
+
   collection:
-    name: Directives
+    name: "Directive: Standardization and publication"
     organization: CalConnect
