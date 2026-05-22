@@ -1,5 +1,0 @@
-# .metanorma/channels.yml — CalConnect Directive: Standardization and Publication
-
-channels:
-  - name: public/directives
-    description: "CalConnect directives"
