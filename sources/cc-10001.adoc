@@ -16,6 +16,12 @@
 
 include::sections/00-foreword.adoc[]
 
+[abstract]
+== Abstract
+
+This document formalizes the standardization and publication processes of CalConnect. It describes the processes and requirements for the document types produced by CalConnect -- Directive, Standard, Guide, Specification, Amendment, Technical Corrigendum and Report -- covering their development, approval and publication.
+
+
 include::sections/00-intro.adoc[]
 
 include::sections/01-scope.adoc[]
